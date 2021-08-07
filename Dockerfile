@@ -1,4 +1,4 @@
-FROM rust:1.52.1
+FROM rust:1.54.0
 
 # Options for setup script
 ARG INSTALL_ZSH="true"
